@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="left">What can I do</h2>
-<p align="left">I love to work in WebApp <span className="text-orange-600">Frontend Development</span> (React.js, Next.js, and Javascript ES6 in general with modern CSS Libraries), but my work experiences took me to study and understand <span className="text-orange-600">backend programming</span> languages (PHP, Node.js), infrastructures (AWS) and Data Storage/Modeling (MySQL).<br/><br/>
+<p align="left">I love to work in WebApp <span className="text-orange-600">Frontend Development</span> (React.js, Next.js, and Javascript ES6 in general with modern CSS Libraries), but my work experiences took me to study and understand <span className="text-orange-600">backend programming</span> languages (PHP, Node.js), OOP Design Patterns, infrastructures (AWS) and Data Storage/Modeling (MySQL).<br/><br/>
           I'm also know <span className="text-orange-600">Prestashop & Magento E-commerce CMS's</span> and working on it (Modules development & Customizations) for at least 5 years.<br/><br/>
           I'm excited to learn anything new and I love to study and understand new concepts everyday!<br/><br/>
 Reach me on <br/>

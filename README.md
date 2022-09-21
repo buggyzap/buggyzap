@@ -7,9 +7,13 @@
 </div>
 
 <h2 align="left">What can I do</h2>
-<p align="left">I love to work in WebApp <span className="text-orange-600">Frontend Development</span> (React.js, Next.js, and Javascript ES6 in general with modern CSS Libraries), but my work experiences took me to study and understand <span className="text-orange-600">backend programming</span> languages (PHP, Node.js), OOP Design Patterns, infrastructures (AWS) and Data Storage/Modeling (MySQL).<br/><br/>
-          I'm also know <span className="text-orange-600">Prestashop & Magento E-commerce CMS's</span> and working on it (Modules development & Customizations) for at least 5 years.<br/><br/>
-          I'm excited to learn anything new and I love to study and understand new concepts everyday!<br/><br/>
+<p align="left">I am a Software Developer, experienced with WebApp Frontend Development (React.js, Next.js, and Javascript ES6 in general with modern CSS Libraries), and with backend programming languages (PHP, Node.js), infrastructures (AWS) and Data Storage/Modeling (MySQL).
+<br/><br/>
+I have deep knowledge of Prestashop & Magento E-commerce platforms, with which I'm more than 5 years experienced with Modules development & Customization.
+<br/><br/>
+I'm a curious person, eager to continuously learn and update the knowledge of my professional and personal sphere.
+<br/><br/>
+😍 In my private life I love Cooking ( and eating 😁 ), 😼 I also love cats and 🌻 sunflowers!<br/><br/>
 Reach me on <br/>
   <a href="https://www.linkedin.com/in/buggyzap/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>

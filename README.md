@@ -13,8 +13,6 @@ I have deep knowledge of Prestashop & Magento E-commerce platforms, with which I
 <br/><br/>
 I'm a curious person, eager to continuously learn and update the knowledge of my professional and personal sphere.
 <br/><br/>
-😍 In my private life I love Cooking ( and eating 😁 ), 😼 I also love cats and 🌻 sunflowers!<br/><br/>
-Reach me on <br/>
   <a href="https://www.linkedin.com/in/buggyzap/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
 

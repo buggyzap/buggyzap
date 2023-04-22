@@ -7,9 +7,11 @@
 </div>
 
 <h2 align="left">What can I do</h2>
-<p align="left">I am a Software Developer, experienced with WebApp Frontend Development (React.js, Next.js, and Javascript ES6 in general with modern CSS Libraries), and with backend programming languages (PHP, Node.js), infrastructures (AWS) and Data Storage/Modeling (MySQL).
+<p align="left">I am a Software Developer, experienced with WebApp Frontend Development (React.js, Next.js, and moden Typescript in general combined with modern CSS Libraries), and with backend programming languages (PHP, Node.js), infrastructures (AWS) and Data Storage/Modeling (MySQL, SQLite, Redis).
 <br/><br/>
-I have deep knowledge of Prestashop & Magento E-commerce platforms, with which I'm more than 5 years experienced with Modules development & Customization.
+I have deep knowledge of Prestashop & Magento E-commerce platforms, with which I'm more than 6 years experienced with Modules development & Customizations.
+<br/><br/>
+I'm currently learning Software architectures and DevOps to become also Cloud Architect.
 <br/><br/>
 I'm a curious person, eager to continuously learn and update the knowledge of my professional and personal sphere.
 <br/><br/>
